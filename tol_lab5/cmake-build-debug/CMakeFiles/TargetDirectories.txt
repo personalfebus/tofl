@@ -1,0 +1,3 @@
+D:/_IT/CLionProjects/tol_lab5/cmake-build-debug/CMakeFiles/tol_lab5.dir
+D:/_IT/CLionProjects/tol_lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/_IT/CLionProjects/tol_lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

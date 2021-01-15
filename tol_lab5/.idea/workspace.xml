@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="tol_lab5" targetName="tol_lab5" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7a13d2d-634d-45b9-a652-8b5140fd6ccd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1mLY2jGQqPegJnPQzMb3SzbGRor" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="tol_lab5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tol_lab5" TARGET_NAME="tol_lab5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tol_lab5" RUN_TARGET_NAME="tol_lab5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7a13d2d-634d-45b9-a652-8b5140fd6ccd" name="Default Changelist" comment="" />
+      <created>1609274132456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609274132456</updated>
+      <workItem from="1609274134057" duration="1403000" />
+      <workItem from="1609318343361" duration="7845000" />
+      <workItem from="1609335950828" duration="6370000" />
+      <workItem from="1610029682436" duration="2518000" />
+      <workItem from="1610119532250" duration="1206000" />
+      <workItem from="1610184295760" duration="6229000" />
+      <workItem from="1610194831724" duration="4145000" />
+      <workItem from="1610209489352" duration="4291000" />
+      <workItem from="1610228009497" duration="8807000" />
+      <workItem from="1610289198802" duration="8197000" />
+      <workItem from="1610314171233" duration="42985000" />
+      <workItem from="1610474114761" duration="1939000" />
+      <workItem from="1610713442822" duration="4534000" />
+    </task>
+    <servers />
+  </component>
+</project>
