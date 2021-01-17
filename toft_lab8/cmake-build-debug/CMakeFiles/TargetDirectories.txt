@@ -1,3 +1,0 @@
-D:/_IT/CLionProjects/toft_lab8/cmake-build-debug/CMakeFiles/toft_lab8.dir
-D:/_IT/CLionProjects/toft_lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/_IT/CLionProjects/toft_lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
